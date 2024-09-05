@@ -1,6 +1,7 @@
 ## Olá eu sou o RafaelSous4
 
-- 🔭 Não estou trabalhando 
+- 🔭 Não estou trabalhando
+- 🤓 Sou estudante
 - 🌱 Estudando PYTHON
 - 😄 Pronomes: Ele/Dele
 
@@ -16,6 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelsous4&show_icons=false" />
 </picture>
 
+
+-Algumas Linguagens que eu aprendir no curso de D
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
